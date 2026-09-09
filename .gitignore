@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.env
+*.egg-info/
+dist/
+build/
+*.so
+*.swp
+.DS_Store
+data/raw/
+*.csv
+*.parquet
+*.h5
+*.hdf5
